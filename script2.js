@@ -172,7 +172,6 @@ image: ""
 text: "Examples of fourth-generation computers include the Apple II, VAX 9000, CRAY 1 (super computers), and CRAY-X-MP (Super Computer)[36][27].",
 image: ""
 },
-// Explanations part
 43: {
 text: "The fifth generation of computers began in 2010 and continues to the present day.",
 image: ""
