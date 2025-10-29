@@ -188,6 +188,73 @@ options: ["ENIAC", "Honeywell 400", "IBM 360/370", "Apple II"],
 correct: "3",
 image: ''
 },
+// Questions part
+32: {
+text: "What is the timeframe for the fourth generation of computers?",
+options: ["1964-1971", "1972-2010", "1980-Present", "2010-Present"],
+correct: "2",
+image: ''
+},
+33: {
+text: "What was the key hardware technology that characterized the fourth generation of computers?",
+options: ["Transistors", "Vacuum Tubes", "ICs with Very Large Scale Integration (VLSI) technology", "Magnetic Drums"],
+correct: "3",
+image: ''
+},
+34: {
+text: "Which of these were hardware components of fourth-generation computers?",
+options: ["Punched cards", "Semiconductor memory, magnetic tapes, and floppy disks", "Paper tape", "Core memory"],
+correct: "2",
+image: ''
+},
+35: {
+text: "What kind of operating systems did fourth-generation computers support?",
+options: ["Batch processing OS", "Single-tasking OS", "Multiprocessing & distributed OS", "No operating system"],
+correct: "3",
+image: ''
+},
+36: {
+text: "Fourth-generation computers supported what type of programming languages?",
+options: ["Machine code only", "Assembly language", "Object-oriented high-level programs", "Procedural languages only"],
+correct: "3",
+image: ''
+},
+37: {
+text: "Which of the following describes the physical characteristics and cost of fourth-generation computers?",
+options: ["Large, expensive, and required special cooling", "Small, easy to use, affordable, and required no external cooling", "Difficult to use and only for specialists", "Large but affordable"],
+correct: "2",
+image: ''
+},
+38: {
+text: "The development of which major technologies is associated with the fourth generation of computers?",
+options: ["The first calculators", "The abacus and slide rule", "Networks and the internet", "The printing press"],
+correct: "3",
+image: ''
+},
+39: {
+text: "What new trends in user interface developed during the fourth generation?",
+options: ["Command-line interfaces", "Development of GUIs and the mouse", "Punched card readers", "Toggle switches and lights"],
+correct: "2",
+image: ''
+},
+40: {
+text: "What was the memory capacity of fourth-generation computers?",
+options: ["128,000 bits", "1 million bits", "100 million bits", "32,000 bits"],
+correct: "3",
+image: ''
+},
+41: {
+text: "What methods were used for data input in the fourth generation?",
+options: ["Only keyboards", "Punched cards and paper tape", "Improved hand-held devices, keyboard, and mouse", "Hard-wired programs"],
+correct: "3",
+image: ''
+},
+42: {
+text: "Which of the following is an example of a fourth-generation computer?",
+options: ["ENIAC", "IBM 360", "UNIVAC", "CRAY-X-MP (Super Computer)"],
+correct: "4",
+image: ''
+},
 
 
 };
