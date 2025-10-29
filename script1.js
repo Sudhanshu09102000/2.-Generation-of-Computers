@@ -127,6 +127,67 @@ options: ["ENIAC", "UNIVAC", "IBM 360", "Honeywell 400"],
 correct: "4",
 image: ''
 },
+// Questions part
+22: {
+text: "What years correspond to the third generation of computers?",
+options: ["1956-1963", "1964-1971", "1972-1980", "1981-present"],
+correct: "2",
+image: ''
+},
+23: {
+text: "What key hardware technology was introduced in third-generation computers?",
+options: ["Vacuum tubes", "Transistors", "Integrated Circuits", "Microprocessors"],
+correct: "3",
+image: ''
+},
+24: {
+text: "What material were the Integrated Circuits in third-generation computers made from?",
+options: ["Silicon", "Germanium", "Semi-conductor materials", "Copper"],
+correct: "3",
+image: ''
+},
+25: {
+text: "Besides Integrated Circuits, what other hardware was used in third-generation computers?",
+options: ["Punched cards and paper tape", "Large capacity disks and magnetic tapes", "Floppy disks and CD-ROMs", "Hard drives and SSDs"],
+correct: "2",
+image: ''
+},
+26: {
+text: "What kind of operating system did third-generation computers support?",
+options: ["Single-user, single-tasking OS", "Batch processing OS", "Time-sharing OS", "Real-time OS"],
+correct: "3",
+image: ''
+},
+27: {
+text: "How did third-generation computers improve upon previous generations?",
+options: ["They were slower and larger", "They were faster, smaller, more reliable, and cheaper", "They consumed more power", "They were less reliable"],
+correct: "2",
+image: ''
+},
+28: {
+text: "A significant feature of third-generation computers was that they were _______.",
+options: ["Difficult to program", "Easy to access", "Available only to the military", "Prone to overheating"],
+correct: "2",
+image: ''
+},
+29: {
+text: "What was the memory capacity of third-generation computers?",
+options: ["32,000 bits", "64,000 bits", "128,000 bits", "256,000 bits"],
+correct: "3",
+image: ''
+},
+30: {
+text: "What methods were used for data input in third-generation computers?",
+options: ["Punched cards", "Hard-wired programs", "Keyboards and monitors", "Mouse and GUI"],
+correct: "3",
+image: ''
+},
+31: {
+text: "Which of the following is an example of a third-generation computer?",
+options: ["ENIAC", "Honeywell 400", "IBM 360/370", "Apple II"],
+correct: "3",
+image: ''
+},
 
 
 };
