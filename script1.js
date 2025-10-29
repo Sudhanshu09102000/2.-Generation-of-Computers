@@ -255,6 +255,67 @@ options: ["ENIAC", "IBM 360", "UNIVAC", "CRAY-X-MP (Super Computer)"],
 correct: "4",
 image: ''
 },
+// Questions part
+43: {
+text: "What timeframe is designated for the fifth generation of computers?",
+options: ["1972-2010", "1980-2000", "2010-Present", "1995-2005"],
+correct: "3",
+image: ''
+},
+44: {
+text: "What combination of technologies is used in the hardware of fifth-generation computers?",
+options: ["Transistors and magnetic tape", "Vacuum tubes and punched cards", "Integrated Circuits with VLSI and Nano technology", "Magnetic drums and core memory"],
+correct: "3",
+image: ''
+},
+45: {
+text: "Which of the following hardware components are characteristic of the fifth generation?",
+options: ["Large capacity hard disk with RAID support", "Floppy disks", "Punched card readers", "Paper tape"],
+correct: "1",
+image: ''
+},
+46: {
+text: "The hardware infrastructure of fifth-generation computers includes powerful servers, the internet, and what other key technology?",
+options: ["Standalone mainframes", "Analog devices", "Cluster computing", "Batch processing units"],
+correct: "3",
+image: ''
+},
+47: {
+text: "Which of the following best describes the features of fifth-generation computers?",
+options: ["Slow, large, and expensive", "Powerful, cheap, reliable, and easy to use", "Difficult to operate and maintain", "Requiring extensive cooling"],
+correct: "2",
+image: ''
+},
+48: {
+text: "What technological advancements make fifth-generation computers portable and faster?",
+options: ["Use of machine language", "Use of parallel processors and Super Large Scale Integrated Circuits", "Larger vacuum tubes", "Simpler architecture"],
+correct: "2",
+image: ''
+},
+49: {
+text: "What type of software development is facilitated by fifth-generation computers?",
+options: ["Slow and manual coding", "Rapid software development", "Only low-level programming", "Firmware development only"],
+correct: "2",
+image: ''
+},
+50: {
+text: "What is the theoretical memory capacity of fifth-generation computers?",
+options: ["100 million bits", "128,000 bits", "Unlimited", "32,000 bits"],
+correct: "3",
+image: ''
+},
+51: {
+text: "How is data input provided to fifth-generation computers?",
+options: ["Primarily through punched cards", "Through CDROM, Optical Disk, and touch and voice sensitive input", "Only via keyboard", "Using toggle switches"],
+correct: "2",
+image: ''
+},
+52: {
+text: "Which of the following is given as an example of a fifth-generation computer?",
+options: ["ENIAC", "IBM 701", "PARAM", "Apple II"],
+correct: "3",
+image: ''
+},
 
 
 };
