@@ -127,6 +127,51 @@ image: ""
 text: "Examples of third-generation computers include the IBM 360/370, CDC 6600, and PDP 8/11[29][33].",
 image: ""
 },
+// Explanations part
+32: {
+text: "The fourth generation of computers is dated from 1972 to 2010[39].",
+image: ""
+},
+33: {
+text: "The hardware used in the fourth generation of computers included ICs with Very Large Scale Integration (VLSI) technology[36][39].",
+image: ""
+},
+34: {
+text: "Hardware components of this generation were semiconductor memory, magnetic tapes, and floppy disks[27].",
+image: ""
+},
+35: {
+text: "A key feature of fourth-generation computers was their support for multiprocessing and distributed operating systems[36].",
+image: ""
+},
+36: {
+text: "This generation supported object-oriented high-level programs[37].",
+image: ""
+},
+37: {
+text: "Fourth-generation computers evolved to be small, easy to use, and affordable, and they did not require external cooling[36][39].",
+image: ""
+},
+38: {
+text: "The fourth generation saw the development of networks and the internet[37].",
+image: ""
+},
+39: {
+text: "This era saw the development of new trends in Graphical User Interfaces (GUIs) and the mouse[37].",
+image: ""
+},
+40: {
+text: "The capacity of the memory in the fourth generation was 100 million bits.",
+image: ""
+},
+41: {
+text: "Input was provided through improved hand-held devices, the keyboard, and the mouse[27].",
+image: ""
+},
+42: {
+text: "Examples of fourth-generation computers include the Apple II, VAX 9000, CRAY 1 (super computers), and CRAY-X-MP (Super Computer)[36][27].",
+image: ""
+},
 
     
     
